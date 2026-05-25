@@ -17,6 +17,7 @@ AWS Authorized Instructor | Cloud & DevOps Engineer
 
 ## Certifications
 - AWS Certified Solutions Architect Associate
+- AWS Cloud AI Practitioner
 - AWS Certified Cloud Practitioner
 - AWS Authorized Instructor
 
